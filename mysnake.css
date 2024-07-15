@@ -1,7 +1,26 @@
-body{
-    text-align: center;
-}
+
 
 .board{
     background-color: blueviolet;
+}
+
+.game-page{
+    display: flex;
+}
+
+.option-level{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    width:18rem;
+    height: 3.5rem;
+    
+}
+
+h1{
+    background-color: rgb(196, 201, 206);
+    text-align: center;
+    height: 8rem;
+    padding-top: 2rem;
+    font-size: xx-large;
+    font-family: poppins;
 }
